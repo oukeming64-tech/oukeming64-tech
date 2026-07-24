@@ -38,3 +38,7 @@ Traveler · Writer · Builder · Gamer — 商学院 EMBA 出身，现在做 AI-
 ---
 
 📫 找到我：Issues / Discussions 随时开，或者在任意仓库里 `@oukeming64-tech`。
+
+---
+
+🤖 *这个主页（README、License、推广文案）由 Kimi K3 集群一条龙代办。This profile was set up end-to-end by a Kimi K3 cluster.*
