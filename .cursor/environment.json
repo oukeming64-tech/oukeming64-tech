@@ -1,0 +1,17 @@
+{
+  "name": "Profile README dev environment",
+  "install": "pip3 install --user --break-system-packages grip && npm --prefix .cursor install",
+  "terminals": [
+    {
+      "name": "readme-preview",
+      "command": "python3 -m grip README.md 0.0.0.0:6419 --norefresh",
+      "description": "GitHub-accurate live preview of README.md at http://localhost:6419"
+    }
+  ],
+  "ports": [
+    {
+      "name": "readme-preview",
+      "port": 6419
+    }
+  ]
+}
