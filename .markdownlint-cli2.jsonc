@@ -1,0 +1,11 @@
+{
+  // Config for markdownlint-cli2 used by the profile README dev environment.
+  // GitHub profile READMEs intentionally use long prose lines and inline HTML
+  // (e.g. <p>/<img> for stat cards), so those rules are relaxed here.
+  "config": {
+    "default": true,
+    "MD013": false, // line-length: prose/links wrap naturally on GitHub
+    "MD033": false // inline HTML: needed for stat cards and layout
+  },
+  "globs": ["README.md"]
+}
