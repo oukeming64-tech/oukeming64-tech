@@ -5,7 +5,8 @@
 Builder stuck at the intersection of **agent workflows**, **filmmaking tools**, and **business research**.  
 Traveler · Writer · Builder · Gamer · EMBA survivor.
 
-I care about three things: agents that ship (not just vibe), tools that steal hours back from meetings, and observations sharp enough to survive a second reading.
+I care about three things: agents that ship (not just vibe), tools that steal hours back from meetings, and observations sharp enough to survive a second reading.  
+The one thing you can actually play is [《嫉妒》](https://github.com/oukeming64-tech/Opus) — a finished investigation game, not another skill.
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=oukeming64-tech&show_icons=true&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats" />
@@ -47,7 +48,8 @@ I care about three things: agents that ship (not just vibe), tools that steal ho
 
 商学院 EMBA 出身，现在做 **AI-native 的工具和研究**——以及防止 Agent 们在同一仓库里互殴。
 
-关心三件事：让 Agent 真能干活（不是只会上头）、让工具从会里偷回时间、把观察写成还能读第二遍的文字。
+关心三件事：让 Agent 真能干活（不是只会上头）、让工具从会里偷回时间、把观察写成还能读第二遍的文字。  
+能玩的成品是[《嫉妒》](https://github.com/oukeming64-tech/Opus)——调查游戏，不是又一份 Skill。
 
 | 项目 | 一句话 |
 |---|---|
