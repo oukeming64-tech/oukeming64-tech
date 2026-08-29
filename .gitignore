@@ -1,0 +1,3 @@
+# Dev-environment tooling artifacts (see .cursor/environment.json)
+.cursor/node_modules/
+.venv/
