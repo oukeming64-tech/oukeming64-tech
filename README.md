@@ -1,70 +1,43 @@
 # Hi, I'm Ke-Mo 👋
 
-**I run AI like a team — mostly so they argue with each other instead of with me.**
+I build tools for filmmaking and everyday life, write in Chinese, and work with AI agents. The agents help with the code; I still catch the blame.
 
-Builder stuck at the intersection of **agent workflows**, **filmmaking tools**, and **business research**.  
-Traveler · Writer · Builder · Gamer · EMBA survivor.
+做能用的工具，写值得再读一遍的文字。Traveler · Writer · Builder · Gamer · EMBA survivor.
 
-I care about three things: agents that ship (not just vibe), tools that steal hours back from meetings, and observations sharp enough to survive a second reading.  
-The one thing you can actually play is [《嫉妒》](https://github.com/oukeming64-tech/Opus) — a finished investigation game, not another skill.
+## Direct Light · 白棚灯光预演
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=oukeming64-tech&show_icons=true&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oukeming64-tech&layout=compact&hide_border=true" height="165" alt="Top languages" />
-</p>
+Preview light positions, colors and shadows before stepping into the studio. 给导演、摄影师和灯光师用的布光预演工具。
 
----
+[![Direct Light camera preview](https://raw.githubusercontent.com/oukeming64-tech/direct-light/main/docs/media/shot-lens.png)](https://oukeming64-tech.github.io/direct-light/)
 
-## Featured (the stuff that survived)
+[Try it / 在线体验](https://oukeming64-tech.github.io/direct-light/) · [Source](https://github.com/oukeming64-tech/direct-light) · [English guide](https://github.com/oukeming64-tech/direct-light/blob/main/README.en.md)
 
-| Project | What it is (and what it isn't) |
-|---|---|
-| [**《嫉妒》 / Opus**](https://github.com/oukeming64-tech/Opus) | 60–90 min social-mystery / psychological-horror investigation. Playable build — **not** a pitch deck. [Latest release](https://github.com/oukeming64-tech/Opus/releases/latest) |
-| [**direct-light**](https://github.com/oukeming64-tech/direct-light) | White-studio lighting previz for directors, DPs & gaffers — argue about soft light *before* you burn the rental budget. [Live demo](https://oukeming64-tech.github.io/direct-light/) · [English README](https://github.com/oukeming64-tech/direct-light/blob/main/README.en.md) |
-| [**candidate-screen**](https://github.com/oukeming64-tech/candidate-screen) | Hiring screen **skill**: *load-bearing wall ÷ decoration*. Turns “I have a feeling” into pass / hold / reject **with evidence** — still not a court ruling |
-| [**TRS-300229**](https://github.com/oukeming64-tech/TRS-300229) | Research **skill** with a knowledge base, valuation anchors, and SaaS-transition tracking. Brings receipts. **Not** a hot tip. **Not** financial advice. Markets remain undefeated |
-| [**marketing-agent-skill**](https://github.com/oukeming64-tech/marketing-agent-skill) | Marketing agent skill that detects what your machine can actually do before promising a Super Bowl ad. Honest completion levels; no fake “done” |
-| [**different-diary**](https://github.com/oukeming64-tech/different-diary) | Local-first journal with **zero** streaks, scores, or shame. Built while eating junk food. [Try it](https://oukeming64-tech.github.io/different-diary/) if productivity apps make you tired |
+## 嫉妒 · Opus
 
-## How I work with agents (so the house doesn't burn)
+A 60–90 minute social-mystery / psychological-horror investigation game. 社会派推理与心理恐怖调查游戏，已有 Windows 和 macOS 可玩版本。
 
-- **Fixed roles** — build lead / butler / intern. Everyone coding the same file is how you get three brilliant bugs and no product
-- **Shared external brain** — Obsidian rooms per agent. Sync docs live there; product trees are not scrapbooks
-- **Skills over chat logs** — if it only exists in a thread, it dies with the context window
+[![嫉妒](https://raw.githubusercontent.com/oukeming64-tech/Opus/main/cover.png)](https://github.com/oukeming64-tech/Opus/releases/latest)
 
-## Writing & research (long form, short patience for nonsense)
+[Windows / macOS downloads](https://github.com/oukeming64-tech/Opus/releases/latest) · [Source & story](https://github.com/oukeming64-tech/Opus)
 
-- [**from-creation-to-harvest**](https://github.com/oukeming64-tech/from-creation-to-harvest) — Business education, value systems, and how “create / circulate / harvest” gets mixed up when speed is the only grade
-- [**writing**](https://github.com/oukeming64-tech/writing) — Essays and social commentary (Chinese). Fewer slogans, more uncomfortable details
-- [**fengxi-town**](https://github.com/oukeming64-tech/fengxi-town) — A small openable town. Graduation gift. Nostalgia with a map
+## 不一样的日记 · Different Diary
 
-## Stack
+A local-first diary without streaks or scores. 随手记下日常，不催促，也不打分。
 
-`TypeScript` · `React` · `React Three Fiber` · `Tauri` · `Python` · too many agent CLIs · coffee of unknown origin
+[![不一样的日记](https://raw.githubusercontent.com/oukeming64-tech/different-diary/main/public/og.png)](https://oukeming64-tech.github.io/different-diary/)
 
----
+[Try it / 在线体验](https://oukeming64-tech.github.io/different-diary/) · [Source](https://github.com/oukeming64-tech/different-diary)
 
-## 中文简介
+## Working with agents
 
-商学院 EMBA 出身，现在做 **AI-native 的工具和研究**——以及防止 Agent 们在同一仓库里互殴。
+- [codex-skills](https://github.com/oukeming64-tech/codex-skills) — keep documentation current and review what agents actually delivered.
+- [docs-as-memory](https://github.com/oukeming64-tech/docs-as-memory) — find the project context a task needs without rereading the whole archive.
+- [marketing-agent-skill](https://github.com/oukeming64-tech/marketing-agent-skill) — turn approved facts into copy, images and video with the tools available.
 
-关心三件事：让 Agent 真能干活（不是只会上头）、让工具从会里偷回时间、把观察写成还能读第二遍的文字。  
-能玩的成品是[《嫉妒》](https://github.com/oukeming64-tech/Opus)——调查游戏，不是又一份 Skill。
+Obsidian keeps the shared project map. Repositories keep the implementation and its evidence.
 
-| 项目 | 一句话 |
-|---|---|
-| [《嫉妒》 / Opus](https://github.com/oukeming64-tech/Opus) | 60–90 分钟社会派推理 × 心理恐怖调查游戏。能玩，不是企划书。[最新版本](https://github.com/oukeming64-tech/Opus/releases/latest) |
-| [direct-light](https://github.com/oukeming64-tech/direct-light) | 白棚灯光预演：在烧掉场地费之前先吵完布光 |
-| [candidate-screen](https://github.com/oukeming64-tech/candidate-screen) | 初筛 Skill：承重墙 ÷ 装修；建议不是判决 |
-| [TRS-300229](https://github.com/oukeming64-tech/TRS-300229) | 投研 Skill 框架；带证据。不是荐股 |
-| [marketing-agent-skill](https://github.com/oukeming64-tech/marketing-agent-skill) | 市场总控：先看机器能干嘛，再开口承诺 |
-| [different-diary](https://github.com/oukeming64-tech/different-diary) | 反内卷日记：不催、不打分、不道德绑架 |
+## Writing, research & experiments
 
-写作：[从创造到收割](https://github.com/oukeming64-tech/from-creation-to-harvest) · [随笔](https://github.com/oukeming64-tech/writing) · [枫溪镇](https://github.com/oukeming64-tech/fengxi-town)
+[随笔 / Writing](https://github.com/oukeming64-tech/writing) · [从创造到收割](https://github.com/oukeming64-tech/from-creation-to-harvest) · [枫溪镇](https://github.com/oukeming64-tech/fengxi-town) · [Candidate screening](https://github.com/oukeming64-tech/candidate-screen) · [TRS research](https://github.com/oukeming64-tech/TRS-300229) · [EMBA card game · pre-alpha](https://github.com/oukeming64-tech/emba-card-game)
 
----
-
-📫 Issues / Discussions welcome. Roast the code, not the vibe — or both, if you're efficient.  
-`@oukeming64-tech` on any repo.
-
-*Maintained by Ke-Mo · agents assist · humans still catch the blame.*
+Issues and discussions welcome. `@oukeming64-tech`
